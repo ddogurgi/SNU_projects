@@ -1,0 +1,13 @@
+nop
+lui x16, 0xc0000000
+lui x17, 0xe0000000
+lui x18, 0xf0000000
+auipc x19, 0xc0000000
+auipc x20, 0xe0000000
+auipc x21, 0xf0000000
+nop
+nop
+nop
+nop
+nop
+jal 0 0 

@@ -1,0 +1,13 @@
+nop
+add x16, x1, x2
+sub x17, x4, x8
+xor x18, x3, x5
+or x19, x3, x5
+and x20, x5, x3
+sub x21, x1, x6
+nop
+nop
+nop
+nop
+nop
+jal 0 0
