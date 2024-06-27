@@ -1,1 +1,0 @@
-#define IRQ_INTERVAL_TIMER0 0
